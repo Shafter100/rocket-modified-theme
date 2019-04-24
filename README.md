@@ -9,13 +9,7 @@
 
 # Install
 
-From the command line:
-
-`apm install rocket-dark-syntax`
-
-If the command line isn't your thing:
-
 - Go to **Settings > Install**
-- Search for `rocket dark syntax` and click **Install**
-- Go to **Settings > Themes** and choose **Rocket Dark** from the dropdown menu
+- Search for `rocket light syntax` and click **Install**
+- Go to **Settings > Themes** and choose **Rocket Light** from the dropdown menu
 - Happy coding! ♥
